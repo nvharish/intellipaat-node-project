@@ -1,0 +1,10 @@
+{
+  "port": 3000,
+  "hostName": "localhost",
+  "dbName": "intellipaat_node_project",
+  "dbHost": "127.0.0.1",
+  "dbPort": 27107,
+  "dbUser": "",
+  "dbPassword": "",
+  "apiVersion": "v1"
+}
